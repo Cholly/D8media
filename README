@@ -1,0 +1,19 @@
+MediaFront Port for Drupal 8 @Cholly 12/12/11
+
+Changed Drupal core designation in MediaFront and  OSM Player .info files
+
+TESTED 12/14/11
+ - Install & Uninstall fully functional
+ - Permissions fully functional
+ - Media Player Block (laods but requires Views)
+ - Add/Edit/Save Preset fully functional
+ - 
+
+D8 Function Tested 12/14/11
+ - Added new content type to test Media Front and Media Front Preset
+ - Added fields to new content type: file, image, Media Player (widget and preset fully functional)
+
+
+NOTES 12/14/11
+Loads and plays all video formats
+Only Plays audio in flv format
