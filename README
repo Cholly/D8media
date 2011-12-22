@@ -14,6 +14,6 @@ D8 Function Tested 12/14/11
  - Added fields to new content type: file, image, Media Player (widget and preset fully functional)
 
 
-NOTES 12/14/11
+NOTES 12/22/11
 Loads and plays all video formats
-Only Plays audio in flv format
+Only tested ok in Firefox
